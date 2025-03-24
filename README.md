@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 |----------- | ------ | ------------|
 |胡若木    | 1938956827@qq.com | 15125988691 |
 
----
 
 `平台链接`
 | 平台                 | 链接                 |   
-|----------- | -------------------------------------------- | 
+|----------- | :-------------------------------------------- :| 
 |微信公众号    | [若木的解忧杂货铺](https://mp.weixin.qq.com/s/n_n3TTNUjQiI4oNxosix6g) |
 | CSDN |[若木胡](https://blog.csdn.net/weixin_70682362?type=blog)      |
 |抖音|[若木](https://www.douyin.com/user/self?from_tab_name=main)|
-[========]
+
+---
 ![介绍](https://pic4.zhimg.com/v2-ee3d53f1eed23a4128b20b047a87d2c5_1440w.jpg)

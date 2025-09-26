@@ -30,10 +30,11 @@ Here are some ideas to get you started:
 | 平台                 | 链接                 |   
 |----------- | :--------------------------------------------:| 
 |微信公众号    | [若木的解忧杂货铺](https://mp.weixin.qq.com/s/n_n3TTNUjQiI4oNxosix6g) |
-| CSDN |[若木胡](https://blog.csdn.net/weixin_70682362?type=blog)      |
+| CSDN |[若木胡](https://blog.csdn.net/weixin_70682362?type=blog) |
 |抖音|[若木](https://www.douyin.com/user/self?from_tab_name=main)|
 
+
+
 ---
-![介绍](https://pic4.zhimg.com/v2-ee3d53f1eed23a4128b20b047a87d2c5_1440w.jpg)
 ![尾页](https://mmbiz.qpic.cn/mmbiz_png/J5RicVnhGXkOiaPicqxDVtWsLMsIJALQPzHGpSjQpaXCUzYMG3oGwFfwJkEeD9AzKb4Uic0jib2J3aE2cjBjPYtsQng/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&randomid=ckcx4rr4&watermark=1&tp=wxpic)
 
